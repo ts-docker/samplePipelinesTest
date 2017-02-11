@@ -13,7 +13,7 @@ resources:
       isPull: false
     #make sure this seed version exists in your registry account
     seed:
-      versionName: master.1
+      versionName: master.2
 
 # Docker Image Options for VISUALIZER
   - name: dv-img-opts
