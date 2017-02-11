@@ -37,7 +37,7 @@ resources:
     type: cluster
     integration: AWS
     pointer:
-      sourceName : "default"
+      sourceName : "test"
       region: "us-west-2"
 
 #######1: EOF Create DV pipeline
